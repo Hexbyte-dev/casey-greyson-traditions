@@ -1,0 +1,24 @@
+{
+  "name": "casey-greyson-traditions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hexbyte-dev/casey-greyson-traditions.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Hexbyte-dev/casey-greyson-traditions/issues"
+  },
+  "homepage": "https://github.com/Hexbyte-dev/casey-greyson-traditions#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
